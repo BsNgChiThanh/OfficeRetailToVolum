@@ -1,6 +1,6 @@
 # OfficeRetailToVolum #
-## Chuyển đổi Office từ Retail sang Volum ##
-  - C2R-R2V-AIO Ver19
+  - Chuyển đổi Office từ Retail sang Volum với công cụ: **C2R-R2V-AIO** Ver19
+  - Trang [github](https://github.com/abbodi1406/C2R-R2V-AIO)
 ### Hướng dẫn sử dụng: ###
   - Kích hoạt trực tiếp từ **Windows PowerShell**
   - Chọn **Run as Administrator**
