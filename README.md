@@ -8,4 +8,5 @@
     ```php
     iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/OfficeRetailToVolum/IMP/C2R-R2V-AIO.ps1 | iex
     ```
+  - Done!
   - ![image](https://github.com/BsNgChiThanh/OfficeRetailToVolum/assets/82578024/4aabdecb-2e7b-4960-a109-e70b7047604c)
