@@ -6,7 +6,14 @@
   - Chọn **Run as Administrator**
   - Dán câu lệnh dưới đây và bấm enter
     ```php
-    iwr -useb https://raw.githubusercontent.com/BsNgChiThanh/OfficeRetailToVolum/IMP/C2R-R2V-AIO.ps1 | iex
+    irm https://raw.githubusercontent.com/BsNgChiThanh/OfficeRetailToVolum/IMP/C2R-R2V-AIO.ps1 | iex
     ```
+
+    Hoặc:
+
+    ```php
+    irm https://bit.ly/45SDIHe | iex
+    ```
+    
   - Done!
   - ![image](https://github.com/BsNgChiThanh/OfficeRetailToVolum/assets/82578024/4aabdecb-2e7b-4960-a109-e70b7047604c)
